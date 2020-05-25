@@ -62,7 +62,7 @@
     <#list scripts as scriptSource>
         <script src="${scriptSource}"></script>
     </#list>
-        
+
     </body>
 </html>
 </#macro>
